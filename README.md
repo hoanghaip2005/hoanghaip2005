@@ -1,11 +1,10 @@
-### 👋 Giới thiệu về tôi:
+### 👋 Introducing me:
 
-- 🔭 Tôi đang không ngừng trau dồi kỹ năng lãnh đạo và tìm kiếm những dự án thử thách mới.
-- 👯 Tôi mong muốn được hợp tác trong các dự án sáng tạo, nơi tôi có thể đóng góp khả năng điều phối và học hỏi từ mọi người.
-- 🌱 Tôi luôn trong trạng thái học hỏi! Tôi thích khám phá những công nghệ và ý tưởng mới mẻ.
-- 💬 Hãy hỏi tôi về: cách điều phối công việc nhóm, lên ý tưởng cho dự án, hoặc bất kỳ chủ đề nào bạn nghĩ tôi có thể biết!
-- ⚡ Fun fact: Tôi tin rằng cách tốt nhất để hoàn thành công việc là bắt tay vào làm và chủ động tham gia.
-
+- 🔭 I am constantly cultivating leadership skills and seeking new challenging projects.
+- 👯 I want to cooperate in creative projects, where I can contribute to the ability to coordinate and learn from people.
+- 🌱 I am always in a state of learning! I like to explore new technologies and ideas.
+- 💬 Ask me about: How to coordinate group work, get ideas for the project, or any topic you think I can know!
+- ⚡ Fun Fact: I believe that the best way to complete the job is to start doing and actively participating.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hoanghai_3103) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoanghaipham.3103/) 
